@@ -1,0 +1,4 @@
+ind_code,indicator,source,unit
+NY.GDP.PCAP.CD,GDP per capita (current US$),World Bank,current US$
+SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),World Bank,current US$
+SP.POP.TOTL,"Population, total",World Bank,people

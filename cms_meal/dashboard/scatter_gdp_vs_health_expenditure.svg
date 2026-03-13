@@ -1,0 +1,494 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='600'>
+<rect width='100%' height='100%' fill='white' />
+<line x1='90' y1='520' x2='960' y2='520' stroke='#333' />
+<line x1='90' y1='520' x2='90' y2='60' stroke='#333' />
+<line x1='24.71630717522659' y1='520' x2='24.71630717522659' y2='526' stroke='#333' />
+<text x='24.71630717522659' y='544' font-size='12' text-anchor='middle' fill='#333'>100</text>
+<line x1='287.4273702490102' y1='520' x2='287.4273702490102' y2='526' stroke='#333' />
+<text x='287.4273702490102' y='544' font-size='12' text-anchor='middle' fill='#333'>1,000</text>
+<line x1='550.1384333227938' y1='520' x2='550.1384333227938' y2='526' stroke='#333' />
+<text x='550.1384333227938' y='544' font-size='12' text-anchor='middle' fill='#333'>10,000</text>
+<line x1='812.8494963965775' y1='520' x2='812.8494963965775' y2='526' stroke='#333' />
+<text x='812.8494963965775' y='544' font-size='12' text-anchor='middle' fill='#333'>100,000</text>
+<line x1='1075.560559470361' y1='520' x2='1075.560559470361' y2='526' stroke='#333' />
+<text x='1075.560559470361' y='544' font-size='12' text-anchor='middle' fill='#333'>1,000,000</text>
+<line x1='84' y1='520.0' x2='90' y2='520.0' stroke='#333' />
+<text x='80' y='524.0' font-size='12' text-anchor='end' fill='#333'>-655</text>
+<line x1='84' y1='428.0' x2='90' y2='428.0' stroke='#333' />
+<text x='80' y='432.0' font-size='12' text-anchor='end' fill='#333'>2305</text>
+<line x1='84' y1='336.0' x2='90' y2='336.0' stroke='#333' />
+<text x='80' y='340.0' font-size='12' text-anchor='end' fill='#333'>5265</text>
+<line x1='84' y1='244.0' x2='90' y2='244.0' stroke='#333' />
+<text x='80' y='248.0' font-size='12' text-anchor='end' fill='#333'>8225</text>
+<line x1='84' y1='152.0' x2='90' y2='152.0' stroke='#333' />
+<text x='80' y='156.0' font-size='12' text-anchor='end' fill='#333'>11186</text>
+<line x1='84' y1='60.0' x2='90' y2='60.0' stroke='#333' />
+<text x='80' y='64.0' font-size='12' text-anchor='end' fill='#333'>14146</text>
+<circle cx='338.9976420983719' cy='496.88293479675696' r='5.30' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Africa Eastern and Southern</title></circle>
+<circle cx='186.74238156545877' cy='497.7971921786511' r='4.07' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Afghanistan</title></circle>
+<circle cx='357.1129121261869' cy='497.58526473913525' r='4.88' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Africa Western and Central</title></circle>
+<circle cx='409.5375395294215' cy='497.26875322775174' r='4.06' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Angola</title></circle>
+<circle cx='547.0257369589903' cy='481.27720696984994' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Albania</title></circle>
+<circle cx='726.2497235411363' cy='387.58952287673037' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Andorra</title></circle>
+<circle cx='517.526889464363' cy='488.33704064548476' r='4.84' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Arab World</title></circle>
+<circle cx='733.4243627266908' cy='424.99776984207296' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>United Arab Emirates</title></circle>
+<circle cx='590.6421110977146' cy='454.35228178349' r='4.08' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Argentina</title></circle>
+<circle cx='526.9256976064801' cy='475.79714861465266' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Armenia</title></circle>
+<circle cx='637.4447555735995' cy='473.48833926124854' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Antigua and Barbuda</title></circle>
+<circle cx='763.8021886663736' cy='282.6944709743847' r='4.05' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Australia</title></circle>
+<circle cx='747.8703154083357' cy='304.8363117310029' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Austria</title></circle>
+<circle cx='511.59187726422795' cy='490.31531423663813' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Azerbaijan</title></circle>
+<circle cx='129.54545454545456' cy='498.75836346906146' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Burundi</title></circle>
+<circle cx='745.2429530940908' cy='315.30711607561915' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Belgium</title></circle>
+<circle cx='325.34135214274545' cy='498.1868979720622' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Benin</title></circle>
+<circle cx='271.9942126038023' cy='497.40352833209766' r='4.04' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Burkina Faso</title></circle>
+<circle cx='394.2755005385264' cy='497.97133571875736' r='4.30' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Bangladesh</title></circle>
+<circle cx='602.7114291612872' cy='460.5402798601306' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Bulgaria</title></circle>
+<circle cx='672.751275856359' cy='463.0905548637903' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Bahrain</title></circle>
+<circle cx='703.147781258478' cy='429.32342636578574' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Bahamas, The</title></circle>
+<circle cx='533.7635163356215' cy='475.61294941967583' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Bosnia and Herzegovina</title></circle>
+<circle cx='523.197046699361' cy='482.28419178039195' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Belarus</title></circle>
+<circle cx='516.1652469395592' cy='490.01703263703837' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Belize</title></circle>
+<circle cx='453.17348095324087' cy='491.7066757077257' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Bolivia</title></circle>
+<circle cx='554.3671616751487' cy='468.24894987177447' r='4.37' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Brazil</title></circle>
+<circle cx='657.3157169979249' cy='459.65141493849313' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Barbados</title></circle>
+<circle cx='685.9787382720274' cy='476.85235940606054' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Brunei Darussalam</title></circle>
+<circle cx='440.6796150354343' cy='494.5921159677604' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Bhutan</title></circle>
+<circle cx='522.175329813333' cy='484.41708461447905' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Botswana</title></circle>
+<circle cx='207.42218343329012' cy='497.9605502439868' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Central African Republic</title></circle>
+<circle cx='743.0109507746708' cy='307.3623333761757' r='4.07' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Canada</title></circle>
+<circle cx='643.6219706903282' cy='449.06954652561126' r='4.17' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Central Europe and the Baltics</title></circle>
+<circle cx='813.5587200005383' cy='133.41659204376066' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Switzerland</title></circle>
+<circle cx='611.1289389808094' cy='445.6648295998425' r='4.03' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Chile</title></circle>
+<circle cx='579.6433237605736' cy='475.90844357130004' r='6.45' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>China</title></circle>
+<circle cx='396.09235928479274' cy='496.9079382805012' r='4.05' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Cote d'Ivoire</title></circle>
+<circle cx='349.3348098120553' cy='497.1746237439135' r='4.05' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Cameroon</title></circle>
+<circle cx='240.05621725066504' cy='498.90470496545015' r='4.18' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Congo, Dem. Rep.</title></circle>
+<circle cx='390.96115029174365' cy='497.28484744429954' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Congo, Rep.</title></circle>
+<circle cx='509.4576098683425' cy='481.8823952295801' r='4.09' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Colombia</title></circle>
+<circle cx='338.18336087111186' cy='496.4557502361899' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Comoros</title></circle>
+<circle cx='466.2757196554948' cy='490.61628938923735' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Cabo Verde</title></circle>
+<circle cx='610.290167692039' cy='463.47946978182324' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Costa Rica</title></circle>
+<circle cx='614.6148979963832' cy='471.169943289641' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Caribbean small states</title></circle>
+<circle cx='698.2449781249079' cy='409.52560652990314' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Cyprus</title></circle>
+<circle cx='681.9937189557115' cy='416.62019007201064' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Czechia</title></circle>
+<circle cx='744.1758773355458' cy='300.89897450863185' r='4.14' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Germany</title></circle>
+<circle cx='426.4234383825057' cy='497.2221452753315' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Djibouti</title></circle>
+<circle cx='549.1410368390825' cy='484.32833583482255' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Dominica</title></circle>
+<circle cx='768.9207763445638' cy='297.29381687141495' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Denmark</title></circle>
+<circle cx='557.1136493532799' cy='484.4395862152555' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Dominican Republic</title></circle>
+<circle cx='479.20983000933046' cy='492.37988044991715' r='4.08' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Algeria</title></circle>
+<circle cx='551.5660163967867' cy='481.9168552785373' r='7.71' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>East Asia &amp; Pacific (excluding high income)</title></circle>
+<circle cx='452.5817998833054' cy='493.3761943543197' r='10.10' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Early-demographic dividend</title></circle>
+<circle cx='581.6084531576246' cy='472.24390053976947' r='8.14' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>East Asia &amp; Pacific</title></circle>
+<circle cx='533.156404751516' cy='485.48268561243333' r='4.43' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Europe &amp; Central Asia (excluding high income)</title></circle>
+<circle cx='675.441251500153' cy='407.3789671091605' r='5.61' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Europe &amp; Central Asia</title></circle>
+<circle cx='505.0890492215638' cy='483.7987083773501' r='4.03' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Ecuador</title></circle>
+<circle cx='428.9427155164351' cy='495.2380997009912' r='4.20' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Egypt, Arab Rep.</title></circle>
+<circle cx='722.5784984709223' cy='354.64318098596175' r='4.61' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Euro area</title></circle>
+<circle cx='688.0504278031559' cy='403.08447137162375' r='4.08' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Spain</title></circle>
+<circle cx='676.4831247480174' cy='429.4438471561694' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Estonia</title></circle>
+<circle cx='293.6237122155951' cy='498.5514386059777' r='4.22' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Ethiopia</title></circle>
+<circle cx='712.6893882069727' cy='370.5466119515364' r='4.78' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>European Union</title></circle>
+<circle cx='346.80525933636943' cy='497.4300908619094' r='5.84' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Fragile and conflict affected situations</title></circle>
+<circle cx='740.0564351438547' cy='328.2235603719147' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Finland</title></circle>
+<circle cx='490.44436752647437' cy='493.01675210186625' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Fiji</title></circle>
+<circle cx='720.9817673518112' cy='339.60909533497664' r='4.12' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>France</title></circle>
+<circle cx='443.2797947519684' cy='483.8520985825212' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Micronesia, Fed. Sts.</title></circle>
+<circle cx='521.8317969402276' cy='491.77065280919726' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Gabon</title></circle>
+<circle cx='733.6388035305575' cy='331.58729978030794' r='4.12' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>United Kingdom</title></circle>
+<circle cx='528.6546499704311' cy='482.4054471928887' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Georgia</title></circle>
+<circle cx='386.545307108538' cy='497.4494384740146' r='4.06' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Ghana</title></circle>
+<circle cx='337.8332881397554' cy='497.7890374231019' r='4.03' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Guinea</title></circle>
+<circle cx='273.2337647128105' cy='498.8328336315277' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Gambia, The</title></circle>
+<circle cx='286.06011022854693' cy='497.0802865532895' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Guinea-Bissau</title></circle>
+<circle cx='504.0675772982759' cy='492.3704226646031' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Equatorial Guinea</title></circle>
+<circle cx='646.860735648995' cy='438.6387874982173' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Greece</title></circle>
+<circle cx='565.2327764042182' cy='483.2735565810251' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Grenada</title></circle>
+<circle cx='487.1656377464239' cy='487.4498451549518' r='4.03' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Guatemala</title></circle>
+<circle cx='631.8931546159998' cy='483.93737135073354' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Guyana</title></circle>
+<circle cx='421.1106660086369' cy='491.8896656488839' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Honduras</title></circle>
+<circle cx='303.9576591390992' cy='498.03705672946177' r='5.59' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Heavily indebted poor countries (HIPC)</title></circle>
+<circle cx='641.0481041655892' cy='451.5131668421272' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Croatia</title></circle>
+<circle cx='348.35464702031516' cy='497.9418001742713' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Haiti</title></circle>
+<circle cx='641.2864904219944' cy='455.50563464650963' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Hungary</title></circle>
+<circle cx='523.6101720264718' cy='485.16233019480364' r='12.60' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>IBRD only</title></circle>
+<circle cx='494.6644171269585' cy='488.7112730050271' r='15.91' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>IDA &amp; IBRD total</title></circle>
+<circle cx='336.4008811309589' cy='497.86855647677635' r='7.31' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>IDA total</title></circle>
+<circle cx='361.574893633854' cy='497.61385526549634' r='5.15' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>IDA blend</title></circle>
+<circle cx='468.19651626498705' cy='495.53750234986865' r='4.49' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Indonesia</title></circle>
+<circle cx='320.2395804026678' cy='498.00500079325616' r='6.16' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>IDA only</title></circle>
+<circle cx='393.3370164617803' cy='497.0009976934041' r='6.50' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>India</title></circle>
+<circle cx='820.3756878619183' cy='285.8783720883186' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Ireland</title></circle>
+<circle cx='472.17396429794405' cy='491.3331775871364' r='4.16' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Iran, Islamic Rep.</title></circle>
+<circle cx='491.194904583988' cy='489.2747197641037' r='4.08' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Iraq</title></circle>
+<circle cx='790.4003887089349' cy='280.07647397682626' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Iceland</title></circle>
+<circle cx='738.2485948684242' cy='377.566751249169' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Israel</title></circle>
+<circle cx='706.225383673137' cy='397.5882118638301' r='4.10' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Italy</title></circle>
+<circle cx='517.9588525841464' cy='483.46732357970944' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Jamaica</title></circle>
+<circle cx='458.17033179042704' cy='489.00090966306965' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Jordan</title></circle>
+<circle cx='689.2127496685897' cy='386.56409860907434' r='4.22' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Japan</title></circle>
+<circle cx='579.0094753272517' cy='484.41342365861107' r='4.04' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Kazakhstan</title></circle>
+<circle cx='363.18817256280613' cy='496.99253528950084' r='4.10' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Kenya</title></circle>
+<circle cx='374.13589598952194' cy='496.62917332215' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Kyrgyz Republic</title></circle>
+<circle cx='388.71859683355734' cy='496.0724946252328' r='4.03' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Cambodia</title></circle>
+<circle cx='376.22326349187745' cy='492.23234297822046' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Kiribati</title></circle>
+<circle cx='643.0500855574859' cy='459.39013649822414' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>St. Kitts and Nevis</title></circle>
+<circle cx='695.2476710043588' cy='405.0345354981051' r='4.09' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Korea, Rep.</title></circle>
+<circle cx='690.0180680364788' cy='447.44862562780133' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Kuwait</title></circle>
+<circle cx='552.3560755467356' cy='474.84192102466045' r='5.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Latin America &amp; Caribbean (excluding high income)</title></circle>
+<circle cx='370.2680310049018' cy='498.78081918957844' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Lao PDR</title></circle>
+<circle cx='429.63161415142343' cy='491.52732490827225' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Lebanon</title></circle>
+<circle cx='261.85309722515467' cy='496.4025997481335' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Liberia</title></circle>
+<circle cx='492.35940545744035' cy='485.0135795265927' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Libya</title></circle>
+<circle cx='584.8404903977196' cy='479.7094016501507' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>St. Lucia</title></circle>
+<circle cx='555.7990198028492' cy='474.26683224342594' r='5.14' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Latin America &amp; Caribbean</title></circle>
+<circle cx='313.5871904247375' cy='498.168246599692' r='6.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Least developed countries: UN classification</title></circle>
+<circle cx='895.7374037177232' cy='142.38923459011352' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Liechtenstein</title></circle>
+<circle cx='439.7096079302206' cy='495.4610732558989' r='4.04' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Sri Lanka</title></circle>
+<circle cx='489.09040933379924' cy='489.4932992163155' r='15.28' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Low &amp; middle income</title></circle>
+<circle cx='277.4521308730405' cy='495.8214794282118' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Lesotho</title></circle>
+<circle cx='575.0303248482096' cy='475.2278643071764' r='8.04' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Late-demographic dividend</title></circle>
+<circle cx='666.7364655914707' cy='436.10317908070203' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Lithuania</title></circle>
+<circle cx='845.5843578496108' cy='266.20405355659364' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Luxembourg</title></circle>
+<circle cx='643.7219404207822' cy='448.49622049316554' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Latvia</title></circle>
+<circle cx='440.1543143790631' cy='492.41505977041385' r='4.07' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Morocco</title></circle>
+<circle cx='920.4545454545455' cy='250.87703861072197' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Monaco</title></circle>
+<circle cx='506.1297243053398' cy='485.5939169141259' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Moldova</title></circle>
+<circle cx='210.31575427912287' cy='499.09090909090907' r='4.05' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Madagascar</title></circle>
+<circle cx='576.3946619369326' cy='463.61229988488805' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Maldives</title></circle>
+<circle cx='494.6561727074697' cy='489.96850795658827' r='5.39' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Middle East, North Africa, Afghanistan &amp; Pakistan</title></circle>
+<circle cx='587.3891027887317' cy='475.98269648283735' r='4.23' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Mexico</title></circle>
+<circle cx='506.0232757719737' cy='471.8422312160399' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Marshall Islands</title></circle>
+<circle cx='498.97531808882025' cy='488.6038717575716' r='14.23' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Middle income</title></circle>
+<circle cx='533.9127058692351' cy='479.7609300789071' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>North Macedonia</title></circle>
+<circle cx='292.33510371919834' cy='498.57686754868433' r='4.04' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Mali</title></circle>
+<circle cx='710.8611089329886' cy='387.0219419289856' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Malta</title></circle>
+<circle cx='311.3425732080209' cy='497.8866544176628' r='4.09' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Myanmar</title></circle>
+<circle cx='407.83877021097163' cy='495.2756045097537' r='5.27' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Middle East, North Africa, Afghanistan &amp; Pakistan (excluding high income)</title></circle>
+<circle cx='573.384718833631' cy='463.9644269378299' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Montenegro</title></circle>
+<circle cx='488.74575685447473' cy='488.4568574700922' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Mongolia</title></circle>
+<circle cx='233.2538775992881' cy='497.9869574964882' r='4.06' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Mozambique</title></circle>
+<circle cx='374.0056129587065' cy='496.77015616533674' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Mauritania</title></circle>
+<circle cx='563.779101065084' cy='480.482242722173' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Mauritius</title></circle>
+<circle cx='235.29263169401514' cy='498.3504186937146' r='4.04' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Malawi</title></circle>
+<circle cx='564.9481622583453' cy='485.6371636157319' r='4.06' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Malaysia</title></circle>
+<circle cx='784.7792315051479' cy='104.99315200154331' r='4.65' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>North America</title></circle>
+<circle cx='450.8246431426396' cy='487.2920171722253' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Namibia</title></circle>
+<circle cx='730.5446140800186' cy='310.03308036459543' r='6.44' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>High income</title></circle>
+<circle cx='236.21168901231698' cy='498.8244754959125' r='4.05' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Niger</title></circle>
+<circle cx='374.1647989155805' cy='497.556261326425' r='4.40' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Nigeria</title></circle>
+<circle cx='396.85917344520385' cy='492.9028375700511' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Nicaragua</title></circle>
+<circle cx='761.064003572127' cy='301.60652157824404' r='4.03' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Netherlands</title></circle>
+<circle cx='797.6107427168628' cy='241.7963656180316' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Norway</title></circle>
+<circle cx='324.3676742399567' cy='497.02357635435715' r='4.05' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Nepal</title></circle>
+<circle cx='577.8792482408267' cy='428.3898712258489' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Nauru</title></circle>
+<circle cx='731.6373025759991' cy='344.32713804593004' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>New Zealand</title></circle>
+<circle cx='725.6829198563364' cy='315.7787014834606' r='6.41' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>OECD members</title></circle>
+<circle cx='634.9396117666175' cy='476.88233561678345' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Oman</title></circle>
+<circle cx='598.9129549576323' cy='462.2183124425976' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Other small states</title></circle>
+<circle cx='322.5367116951844' cy='498.68546017955225' r='4.43' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Pakistan</title></circle>
+<circle cx='622.1456993052884' cy='451.2187539054919' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Panama</title></circle>
+<circle cx='523.0638717446321' cy='485.78670797428913' r='4.06' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Peru</title></circle>
+<circle cx='439.8654526599295' cy='493.6020227696806' r='4.20' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Philippines</title></circle>
+<circle cx='600.9535321726785' cy='447.30186492349264' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Palau</title></circle>
+<circle cx='411.47458160078736' cy='496.9865924007887' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Papua New Guinea</title></circle>
+<circle cx='640.8475462755106' cy='450.5919413466047' r='4.06' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Poland</title></circle>
+<circle cx='338.0421188339207' cy='497.6040894819727' r='5.87' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Pre-demographic dividend</title></circle>
+<circle cx='666.1131438649427' cy='413.7865039682652' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Portugal</title></circle>
+<circle cx='497.42279945757105' cy='483.2698880373924' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Paraguay</title></circle>
+<circle cx='428.8845724328255' cy='488.88978257923003' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>West Bank and Gaza</title></circle>
+<circle cx='450.44788604107936' cy='492.3513236649061' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Pacific island small states</title></circle>
+<circle cx='742.1521604960195' cy='269.2323154934717' r='5.95' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Post-demographic dividend</title></circle>
+<circle cx='789.952504877079' cy='443.5566690835956' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Qatar</title></circle>
+<circle cx='618.740181163231' cy='466.9697075467758' r='4.03' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Romania</title></circle>
+<circle cx='589.8194874612102' cy='468.45108205991374' r='4.25' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Russian Federation</title></circle>
+<circle cx='290.47088295426545' cy='497.9964475289478' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Rwanda</title></circle>
+<circle cx='393.4393155438861' cy='497.0693610127806' r='6.89' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>South Asia</title></circle>
+<circle cx='696.7812707259883' cy='442.90712445447343' r='4.06' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Saudi Arabia</title></circle>
+<circle cx='261.5799505828193' cy='498.9776894056606' r='4.09' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Sudan</title></circle>
+<circle cx='347.8368201659707' cy='497.35715464317366' r='4.03' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Senegal</title></circle>
+<circle cx='794.8590592489745' cy='377.7562104601352' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Singapore</title></circle>
+<circle cx='359.6120138147263' cy='496.17218240734996' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Solomon Islands</title></circle>
+<circle cx='255.86467026077258' cy='498.5214921524077' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Sierra Leone</title></circle>
+<circle cx='479.10286993638914' cy='484.07217135158766' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>El Salvador</title></circle>
+<circle cx='754.3384204722599' cy='377.69651221933' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>San Marino</title></circle>
+<circle cx='228.5515569151768' cy='498.9376738415632' r='4.03' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Somalia, Fed. Rep.</title></circle>
+<circle cx='573.5876985824887' cy='469.06139565785895' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Serbia</title></circle>
+<circle cx='351.28471882997' cy='497.0116317125272' r='5.96' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Sub-Saharan Africa (excluding high income)</title></circle>
+<circle cx='346.67154845291856' cy='497.1669007725981' r='6.19' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Sub-Saharan Africa</title></circle>
+<circle cx='591.3159025191592' cy='468.2835782777395' r='4.03' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Small states</title></circle>
+<circle cx='412.41665908681176' cy='494.3169221011554' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Sao Tome and Principe</title></circle>
+<circle cx='482.3838095577729' cy='490.401236682229' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Suriname</title></circle>
+<circle cx='652.9103726798079' cy='443.2734856077507' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Slovak Republic</title></circle>
+<circle cx='685.1778311100255' cy='405.22438925761054' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Slovenia</title></circle>
+<circle cx='744.5367221579097' cy='306.75387870911686' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Sweden</title></circle>
+<circle cx='438.39959145334325' cy='490.4323235092473' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Eswatini</title></circle>
+<circle cx='618.8545209836176' cy='475.81800088834734' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Seychelles</title></circle>
+<circle cx='281.49503532916196' cy='498.15859468088416' r='4.03' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Chad</title></circle>
+<circle cx='552.8422981645774' cy='481.91626353503784' r='7.67' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>East Asia &amp; Pacific (IDA &amp; IBRD countries)</title></circle>
+<circle cx='572.1683153414399' cy='475.0471901485406' r='4.80' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Europe &amp; Central Asia (IDA &amp; IBRD countries)</title></circle>
+<circle cx='293.53791725295844' cy='497.7804928609392' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Togo</title></circle>
+<circle cx='512.5804488389015' cy='489.485703688505' r='4.12' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Thailand</title></circle>
+<circle cx='306.1644959447912' cy='496.98669151225596' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Tajikistan</title></circle>
+<circle cx='496.1832025626995' cy='481.56455027806027' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Turkmenistan</title></circle>
+<circle cx='553.0727472867175' cy='474.29477784062334' r='5.12' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Latin America &amp; the Caribbean (IDA &amp; IBRD countries)</title></circle>
+<circle cx='333.8717679471906' cy='495.1509746405262' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Timor-Leste</title></circle>
+<circle cx='407.67372609433625' cy='495.32117321744306' r='5.26' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Middle East, North Africa, Afghanistan &amp; Pakistan (IDA &amp; IBRD)</title></circle>
+<circle cx='485.03099611458936' cy='488.52105413409595' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Tonga</title></circle>
+<circle cx='393.4393155438861' cy='497.0693610127806' r='6.89' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>South Asia (IDA &amp; IBRD)</title></circle>
+<circle cx='346.67154845291856' cy='497.1669007725981' r='6.19' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Sub-Saharan Africa (IDA &amp; IBRD countries)</title></circle>
+<circle cx='619.1399313043046' cy='459.966492358871' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Trinidad and Tobago</title></circle>
+<circle cx='444.1922821468319' cy='489.7590367272047' r='4.02' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Tunisia</title></circle>
+<circle cx='583.3180174017964' cy='482.60777475843406' r='4.15' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Turkiye</title></circle>
+<circle cx='498.23099025493605' cy='446.06744749456766' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Tuvalu</title></circle>
+<circle cx='310.4887246556657' cy='498.5061348692699' r='4.12' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Tanzania</title></circle>
+<circle cx='287.690525378766' cy='498.22776706754814' r='4.08' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Uganda</title></circle>
+<circle cx='645.2646426965227' cy='435.11145457597684' r='4.01' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Uruguay</title></circle>
+<circle cx='788.8529327406872' cy='80.90909090909088' r='4.58' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>United States</title></circle>
+<circle cx='408.0739995025265' cy='493.6621947533479' r='4.06' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Uzbekistan</title></circle>
+<circle cx='556.5965975060764' cy='485.05076099140274' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>St. Vincent and the Grenadines</title></circle>
+<circle cx='434.12545111425004' cy='493.85262563485355' r='4.05' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Venezuela, RB</title></circle>
+<circle cx='454.4644307382' cy='493.5045218397948' r='4.17' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Viet Nam</title></circle>
+<circle cx='429.7919176891599' cy='495.17512224891215' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Vanuatu</title></circle>
+<circle cx='582.1314559295306' cy='458.6976112571637' r='18.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>World</title></circle>
+<circle cx='466.93624378739884' cy='490.5328546865683' r='4.00' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Samoa</title></circle>
+<circle cx='492.50616468152197' cy='482.95666385746586' r='4.11' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>South Africa</title></circle>
+<circle cx='320.0269842055145' cy='497.1604401479766' r='4.04' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Zambia</title></circle>
+<circle cx='377.1376877360935' cy='497.67717542127946' r='4.03' fill='#2a6f97' fill-opacity='0.7' stroke='white' stroke-width='0.6'>
+<title>Zimbabwe</title></circle>
+<text x='500.0' y='32' font-size='18' text-anchor='middle' fill='#111'>GDP per Capita vs Health Expenditure per Capita (2023)</text>
+<text x='500.0' y='576' font-size='14' text-anchor='middle' fill='#333'>GDP per Capita (current US$, log scale)</text>
+<text x='22' y='300.0' font-size='14' text-anchor='middle' fill='#333' transform='rotate(-90 22 300.0)'>Health Expenditure per Capita (current US$)</text>
+</svg>
